@@ -1,0 +1,4 @@
+python -m venv .experiment-env
+.experiment\Scripts\activate (for windows)
+
+source .experiment-env/bin/activate (for Linux)
